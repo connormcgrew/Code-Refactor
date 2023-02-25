@@ -1,4 +1,4 @@
-# <Homework 1 Horiseon Webpage>
+# Homework 1 Horiseon Webpage
 
 ## Description
 
